@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-image: url(../image/corona3.jpg);
+}
+
+.container-1 img{
+    width: 40%;
+}
